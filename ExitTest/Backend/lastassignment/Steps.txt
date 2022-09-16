@@ -1,0 +1,4 @@
+1 - first link our project with Sql;
+2 - create models / entity 
+3 - after creation check in your db ;
+4 -
