@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "vector": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "random": "cpp",
+        "*.tcc": "cpp",
+        "new": "cpp",
+        "ostream": "cpp",
+        "string": "cpp"
+    }
+}

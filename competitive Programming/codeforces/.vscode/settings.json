@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "cstdlib": "cpp",
+        "random": "cpp",
+        "ostream": "cpp",
+        "numeric": "cpp",
+        "initializer_list": "cpp",
+        "valarray": "cpp",
+        "cmath": "cpp",
+        "deque": "cpp",
+        "list": "cpp"
+    }
+}
